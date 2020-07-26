@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My primary research interests lie in the fields of classical Japanese and East Asian legal and cultural history. As an assistant professor in Asian Studies and History at Furman University I teach courses including Ancient to Early Japan, Modern Japan, Introduction to Asian Studies, and Samurai: Real and Imagined (a freshman writing seminar).
