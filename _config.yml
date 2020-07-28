@@ -28,7 +28,7 @@ twitter_username: nckanagawa
 github_username:
 
 # Build settings
-theme: minima
+theme: jekyll-theme-kagami
 plugins:
   - jekyll-feed
 
