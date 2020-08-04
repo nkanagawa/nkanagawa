@@ -1,6 +1,6 @@
 ---
 layout: default
-title: home
+title: home 
 ---
 
 <p>This site is a work in (slow) progress. </p>
