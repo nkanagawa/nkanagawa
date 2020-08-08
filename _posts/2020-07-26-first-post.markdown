@@ -7,4 +7,3 @@ author: Nadia
 ---
 
 <p>Still working on these pages. </p>
-For now, you can find me at: [https://www.furman.edu/people/nadia-kanagawa/](https://www.furman.edu/people/nadia-kanagawa/)
