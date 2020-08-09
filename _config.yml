@@ -21,7 +21,7 @@
 title: Nadia Kanagawa
 email: nkanagawa@furman.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a cultural and legal historian of classical Japan and currently Assistant Professor of Asian Studies and History at Furman University. My research focuses on how the seventh- through ninth-century Japanese realm approached the incorporation, assimilation and configuration of immigrants and their descendants.
+  Cultural and legal historian of classical Japan. Assistant Professor of Asian Studies and History at Furman University.
 baseurl: "/nkanagawa" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nckanagawa
