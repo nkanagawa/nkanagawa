@@ -1,53 +1,56 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+site: Nadia Kanagawa
 
-title: Nadia Kanagawa
-email: nkanagawa@furman.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Cultural and legal historian of classical Japan. Assistant Professor of Asian Studies and History at Furman University.
-baseurl: "/nkanagawa" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: nckanagawa
+url: www.nkanagawa.com
+baseurl:
 
-# Build settings
-theme: jekyll-theme-minimal
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /blog/:slug
+  projects:
+    output: true
+    permalink: /project/:slug
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+sass:
+  style: compressed
+
 plugins:
-  - jekyll-feed
-logo: https://lh3.googleusercontent.com/dc_EOJyyFt99mQ4gsFyPJ2_4WwSyEUv1RisifZq_9_oJDzwSp3Vdn-pRwbj-O6f0PbOkT2WtI57uXRzBlcSTuw0QmuDuKlfaF-FKlKkU61EbGv0XJpCDpz74O7i9WRv6NLT6CFmTGYSBRaZfoCDZTP-LPT-TxpybNUyuxSeT_0oR54yg1mZOLUa_nPnRaFH9MK60S570BgHsxjyk015tBRygvinzwQg8XapMLNoxFQE1UqEGPzoKbOolxOqk3WeM-bYhZs89pkSs_uNVV6F6gGzDM_qt7nd6Sw6luSnUW_aKzZyKKzeZpJtEpKka_JbYzlO0DiqGHh2CA_JRb7gykcYAisgmqxnHEyKkAcrsNZGbPTRz36R3hLsEEddnCHWK-drYyxFUp_5i5mQQvLzXce4j5j5oFtMiE_Ob6I3Fz1U_CUnsWJQXvR4SOWXxZw4o1rKvB8tL0YcMgrGRDfEcotULXKkZoTpf25A0KX1G163abt3VlkaTkZ6mepOJbL4thzT6fPq0ADA0Psv0zVJiBrAIhH2uUnrdVEZ-jQt8F-aAl3KrNvOgBa6TZu0HIJVlaBfDjdBonLG5hzK7--zRyxgnSKQCI_I0rBtAZ5wQJ9ya17kGh0wQTJTJwc7nr6TAdlPdeGKB1Mij17h9qdgPkjmcDesEbofAzmKp-m54GB2Tp5S797KTm_ugxBmV8YM=w2237-h1597-no?authuser=0
+  - jekyll-paginate
+  - jekyll-sitemap
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+paginate: 5
+paginate_path: "/blog/page:num/"
