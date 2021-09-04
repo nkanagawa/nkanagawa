@@ -13,15 +13,15 @@ menu_settings:
     - title: 'About'
       url: '/about'
     - title: 'CV'
-      url: '/CV/'
+      url: '/CV'
     - title: 'Research'
-      url: '/research/'
+      url: '/research'
     - title: 'Teaching'
-      url: '/teaching/'
+      url: '/teaching'
     - title: 'Speaking & Events'
-      url: '/speaking_events/'
+      url: '/speaking_events'
     - title: 'Resources'
-      url: '/resources/'
+      url: '/resources'
     - title: 'Contact'
       url: '/contact'
 
@@ -31,7 +31,7 @@ grid_settings:
 contact_settings:
   form_action: 'https://formspree.io/f/xayalabd'
   confirmation_url: '/thanks'
-  email_subject: 'Nkanagawa Contact'
+  email_subject: 'Website Message'
   send_button_text: 'Send Message'
 
 social_settings:
