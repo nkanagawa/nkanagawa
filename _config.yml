@@ -1,7 +1,7 @@
 site: Nadia Kanagawa
 
-url: www.nkanagawa.com
-baseurl:
+url: https://nkanagawa.github.io/
+baseurl: nkanagawa/
 
 collections:
   pages:
