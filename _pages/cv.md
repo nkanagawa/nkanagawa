@@ -16,7 +16,7 @@ featured_image: /images/social.jpg
 <p>PhD, History, University of Southern California, Los Angeles, CA <br />Dissertation: “Making the Realm, Transforming the People: Foreign Subjects in Seventh- Through Ninth-Century Japan”</p>
 2013
 <p>MA, History, University of Southern California, Los Angeles, CA<br />Fields: Premodern Japanese History (Joan Piggott), Modern Japanese History (Clinton Godart), Chinese History (Bettine Birge), Japanese Religions (Lori Meeks)</p>
-2006-7
+2006-2007
 <p><a href="https://web.stanford.edu/dept/IUC/cgi-bin/">Inter-University Center for Japanese Language Studies</a>, Yokohama, Japan<br />Advanced Language Training, Summer &amp; 10-month Intensive Program</p>
 2006
 <p>BA with distinction in History, Yale University, New Haven, CT, <em>magna cum laude</em>, Phi Beta Kappa</p>
@@ -25,9 +25,9 @@ featured_image: /images/social.jpg
 2020
 <p><u>Author</u>, "East Asia’s First World War, 643–668,” in <a href="https://www.cambridge.org/core/books/east-asia-in-the-world/7069307396B7B16B73E2AEC7C9E7944E"><em>East Asia in the World</em></a>, edited by David Kang and Stephan Haggard, Cambridge University Press, October 2020.</p>
 2017
-<p><u>Author</u>, “Approach and Be Transformed: Immigrants in the Nara and Heian State” in <a href="https://kaya.com/books/hapa-japan-history-volume-1/"><em>Hapa Japan: Constructing Global Mixed Race and Mixed Roots Japanese Identities and Representations</em></a>, edited by Duncan Ryuken Williams, Ito Center Editions, an imprint of Kaya Press, January 2017.</p>
+<p><u>Author</u>, “Approach and Be Transformed: Immigrants in the Nara and Heian State” in <a href="https://kaya.com/books/hapa-japan-history-volume-1/"><em>Hapa Japan: History (Volume 1)</em></a>, edited by Duncan Ryuken Williams, Ito Center Editions, an imprint of Kaya Press, January 2017.</p>
 2017
-<p><u>Translator</u>, “Japanese International Marriages (Kokusai Kekkon): A Longue Durée History, from Early Modern Japan to Imperial Japan,” by Itsuko Kamoto in <a href="https://kaya.com/books/hapa-japan-history-volume-1/"><em>Hapa Japan: Constructing Global Mixed Race and Mixed Roots Japanese Identities and Representations</em></a>, edited by Duncan Ryuken Williams, Ito Center Editions, an imprint of Kaya Press, January 2017.</p>
+<p><u>Translator</u>, “Japanese International Marriages (Kokusai Kekkon): A Longue Durée History, from Early Modern Japan to Imperial Japan,” by Itsuko Kamoto in <a href="https://kaya.com/books/hapa-japan-history-volume-1/"><em>Hapa Japan: History (Volume 1)</em></a>, edited by Duncan Ryuken Williams, Ito Center Editions, an imprint of Kaya Press, January 2017.</p>
 2017
 <p><u>Translator & Interpreter</u>, “Immigrants, Outsiders, and the Outside World in the Yōrō Administrative Code” on the <a href ="http://www.uscppjs.org/">Project for Premodern Japan Studies Website.</a></p>
 ---
@@ -38,11 +38,11 @@ featured_image: /images/social.jpg
 <p>Harold Hastings McVicar Scholarship, University of Southern California</p>
 2011-2018
 <p>Shinso Ito Center for Japanese Religions and Culture Graduate Student Research Support Award</p>
-2013, 2015, 2017<
+2013, 2015, 2017
 <p><a href="https://dornsife.usc.edu/hist/foulke-awards/">Roberta Persinger Foulke Endowment Fellowship</a>, University of Southern California</p>
 2011-2013, 2015, 2017
 <p><a href="https://dornsife.usc.edu/eascenter/ace/">ACE/Nikaido Japanese Studies Fellowship</a></p>
-2010-2016<
+2010-2016
 <p>University of Southern California Provost’s Ph.D. Fellowship</p>
 2015
 <p>University of Southern California Provost’s Fellowship Travel Award</p>
