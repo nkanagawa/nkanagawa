@@ -1,13 +1,11 @@
 ---
-title
-date: 2021-08-04 00:00:00
+title:
+date: 2021-09-04 00:00:00
 featured_image: '/images/demo/demo-square.jpg'
 excerpt:
 ---
 
 ## Publications
-
-Adding publications here.
 
 ### Book Chapters
 
