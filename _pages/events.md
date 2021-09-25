@@ -1,6 +1,6 @@
 ---
-title
-description:
+title:
+description: 
 subtitle:
 featured_image: /images/social.jpg
 ---
