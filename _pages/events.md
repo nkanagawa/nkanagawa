@@ -1,12 +1,15 @@
 ---
 title:
-description: 
+description:
 subtitle:
 featured_image: /images/social.jpg
 ---
 ### Upcoming Events
 November 1, 2021
-<p>"Drawing from Archaeology to Re-evaluate Immigrant Settlement in Ancient Japan." <a href="https://dornsife.usc.edu/cjrc//">USC Shinso Ito Center for Japanese Religions and Culture</a></p>
+<p>"Leveraging the Limitations of Immigrant Descent in Nara Japan: The Life and Times of Takakura no Fukushin." <a href="https://dornsife.usc.edu/cjrc//">USC Shinso Ito Center for Japanese Religions and Culture</a></p>
+March 24-27, 2022
+<p>“Negotiating Names: A 757 CE Policy Change for Foreign Subjects in Kōken’s Court.” Annual Meeting of the Association for Asian Studies </p>
+
 ---
 ### Past Presentations, Conferences, and Workshops
 March 23, 2021

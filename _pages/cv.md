@@ -6,6 +6,8 @@ featured_image: /images/social.jpg
 ---
 ### EMPLOYMENT
 
+2021
+<p><u>James B. Duke Assistant Professor</u>, Asian Studies and History, Furman University</p>
 2019
 <p><u>Assistant Professor</u>, Asian Studies and History, Furman University</p>
 2018-2019
