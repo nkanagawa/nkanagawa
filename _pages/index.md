@@ -1,0 +1,7 @@
+---
+layout: page
+title: -
+description:
+featured_image:
+---
+I am a historian of premodern Japan and currently James B. Duke Assistant Professor of Asian Studies and History at [Furman University](https://www.furman.edu/academics/asian-studies/) in Greenville, SC. In my research, I examine how seventh- through ninth-century Japanese rulers approached the incorporation, assimilation and configuration of immigrants and their descendants. I consider the process by which outsiders became subjects as a way of understanding what it meant to be a subject of the classical Japanese realm. I am particularly interested in comparative legal histories of East Asia, and in exploring how digital methods and tools can enrich our analyses of premodern sources. I am working on a manuscript tentatively titled, "Becoming Foreign Subjects: Immigrants and their Descendants in Seventh- Through Ninth-Century Japan."
