@@ -58,7 +58,7 @@ featured_image: /images/social.jpg
 <p>AST 200: Introduction to Asian Studies, Asian Studies Department, Fall 2020</p>
 <p>FYW 1299: “Samurai: Real and Imagined,” Spring 2020</p>
 <p>HST 161: “Ancient to Early Japan,” Fall 2018, 2019, 2020</p>
-<p>HST 162: “Modern Japan,” Spring 2019, Fall 2018 (evening), and Spring 2020</p>
+<p>HST 162: “Modern Japan,” Spring 2019~2022 and Fall 2018 (evening)</p>
 <p>HST 500: “Microhistories of Asia,” Spring 2021</p>
 
 <p><b>The University of Tokyo</b></p>
@@ -75,6 +75,10 @@ featured_image: /images/social.jpg
 <p>“Introduction to Buddhist Literature,” Religion Department, Main Instructor: Lori Meeks (Fall 2011)</p>
 ---
 ### PRESENTATIONS, CONFERENCES, AND WORKSHOPS
+December 5, 2021
+<p>“The Name Game in Nara Japan: Immigrant Origin and the Court Status System.” IMAP/IDOC Historians at Work series, Kyushu University </p>
+November 1, 2021
+<p>“Leveraging the Limitations of Immigrant Descent in Nara Japan: The Life and Times of Takakura no Fukushin.” USC Shinso Ito Center for Japanese Religions and Culture </p>
 March 23, 2021
 <p>“Who Created Koma District? Challenges in Defining Ancient Japanese Populations with Texts and Artifacts.” Annual Meeting of the Association for Asian Studies </p>
 November 29-30, 2018
@@ -111,18 +115,18 @@ August 29, 2017
 <p>“Historical Overview of the Heian Period” <br />Guest Lecture, for Jason Webb, "Asian Aesthetic & Literary Traditions" (undergraduate course), University of Southern California</p>
 ---
 ### ACADEMIC SERVICE
-2019-present
+2020-present
 <p><a href="https://www.furman.edu/humanities-center/">Furman Humanities Center</a>, Faculty Advisory Board</p>
 2019-present
-<p>Humanities Development Fund Committee, Furman University</p>
-2019-present
 <p>Curriculum Committee, Furman University</p>
-2019-present
-<p>Phi Alpha Theta faculty advisor, Furman University History Department</p>
 2019-present
 <p><a href="http://pmjs.org/">Premodern Japanese Studies (PMJS)</a> Online Community Steering Committee</p>
 2019-present
 <p><a href="http://pmjs.org/">Premodern Japanese Studies (PMJS)</a> Online Community, Inclusivity Subcommittee</p>
+2019-2021
+<p>Phi Alpha Theta faculty advisor, Furman University History Department</p>
+2019-2020
+<p>Humanities Development Fund Committee, Furman University</p>
 2017-2018
 <p>Coordinator, USC Interdisciplinary Dissertation Writing Group</p>
 2017
@@ -131,7 +135,7 @@ August 29, 2017
 <p>History Graduate Student Association Co-President</p>
 ---
 ### RESEARCH LANGUAGES
-<p><b>Japanese</b>: advanced (speaking, reading, writing, listening)<br/><b>Classical Japanese</b>: advanced (reading & Analysis)<br/><b>French</b>: intermediate<br/><b>German</b>: intermediate</p>
+<p><b>Japanese</b>: advanced (speaking, reading, writing, listening)<br/><b>Classical Japanese</b>: advanced (reading & analysis)<br/><b>French</b>: intermediate<br/><b>German</b>: intermediate</p>
 ---
 
 ### ACADEMIC AFFILIATIONS
