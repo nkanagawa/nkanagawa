@@ -5,11 +5,12 @@ subtitle:
 featured_image: /images/social.jpg
 ---
 ### Upcoming Events
-March 24-27, 2022
-<p>“Negotiating Names: A 757 CE Policy Change for Foreign Subjects in Kōken’s Court.” Annual Meeting of the Association for Asian Studies </p>
-
+July 25-29, 2022
+<p>"Ugarit: Translation Alignment Technologies for Under-resourced Languages" with Chiara Palladino, Tariq Yousef, and Farnoosh Shamsian (half-day workshop and tutorial). <a href="https://dh2022.adho.org">Digital Humanities 2022 conference</a>. </p>
 ---
 ### Past Presentations, Conferences, and Workshops
+March 24-27, 2022
+<p>“Negotiating Names: A 757 CE Policy Change for Foreign Subjects in Kōken’s Court.” Annual Meeting of the Association for Asian Studies </p>
 <p>December 6, 2021
 <p>“The Name Game in Nara Japan: Immigrant Origin and the Court Status System.” <a href="https://www.imapkyudai.net/">Kyushu University IMAP/IDOC</a> 'Historians at Work' lecture series.
 <p>November 1, 2021
