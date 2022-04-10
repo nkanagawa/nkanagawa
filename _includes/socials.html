@@ -1,5 +1,12 @@
 <ul class="socials">
 	{% for url in site.data.settings.social_settings %}
+	{% if url[0] == 'humanities-commons_url' %}
+	<li class="socials__item">
+    <a href="{{ url[1] }}" target="_blank" class="socials__item__link" title="{{ url[0] | remove: '_url' | replace: '-', ' ' | capitalize }}">
+    	<img src="/images/humanitiescommonsicon.jpg">
+    </a>
+	</li>
+	{% endif %}
 	{% if url[1] != '' %}
 	<li class="socials__item">
 		<a href="{{ url[1] }}" target="_blank" class="socials__item__link" title="{{ url[0] | remove: '_url' | replace: '-', ' ' | capitalize }}">

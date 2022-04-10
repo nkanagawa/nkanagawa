@@ -5,8 +5,6 @@ featured_image: '/images/demo/demo-square.jpg'
 excerpt:
 ---
 
-## Publications
-
 ### Book Chapters
 
 <div class="gallery" data-columns="1">
