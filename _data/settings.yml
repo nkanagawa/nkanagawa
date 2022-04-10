@@ -22,6 +22,8 @@ menu_settings:
       url: '/events'
     - title: 'Resources'
       url: '/resources'
+    - title: 'Ritsuryo'
+      url: '/ritsuryo'
     - title: 'Contact'
       url: '/contact'
 
@@ -62,12 +64,11 @@ social_settings:
   bandcamp_url: ''
   linkedin_url: 'https://www.linkedin.com/in/nkanagawa/'
   humanities-commons_url: 'https://hcommons.org/members/nkanagawa/'
-  academia_url: 'https://independent.academia.edu/NadiaKanagawa'
 
 color_settings:
   background_color: '#ffffff'
   background_alt_color: '#f4f5f6'
-  text_dark_color: '#424b57'
+  text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
   accent_color: '#2d688a'
