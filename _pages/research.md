@@ -21,3 +21,6 @@ excerpt:
 <p><u>Translator</u>, “Japanese International Marriages (Kokusai Kekkon): A Longue Durée History, from Early Modern Japan to Imperial Japan,” by Itsuko Kamoto in <a href="https://kaya.com/books/hapa-japan-history-volume-1/"><em>Hapa Japan: History (Volume 1)</em></a>, edited by Duncan Ryuken Williams, Ito Center Editions, an imprint of Kaya Press, January 2017.</p>
 <p><u>Translator & Interpreter</u>, “Immigrants, Outsiders, and the Outside World in the Yōrō Administrative Code” on the <a href ="http://www.uscppjs.org/">Project for Premodern Japan Studies Website.</a></p>
 <p></p>
+---
+### Dissertation
+<p><u>Author</u>, "Making the Realm, Transforming the People: Foreign Subjects in Seventh- through Ninth-Century Japan,” PhD dissertation, University of Southern California, 2019. Available via <a href="https://www.proquest.com/dissertations-theses/making-realm-transforming-people-foreign-subjects/docview/2572604927/se-2?accountid=11012">Proquest </a>or by email upon request.</p>
